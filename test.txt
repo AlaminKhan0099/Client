@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-https://53e686b1373ec8c076adc3828443848a.serveo.net
-=======
-https://6435954deb3257cdd1fe98b08532b5b1.serveo.net
->>>>>>> 92c29f809a678d494515ae42574c8b5bbf7d8b2c
+http://192.168.0.102
